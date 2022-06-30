@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(253, 251, 251);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(8, 25, 77);
+    line-height: 1,5;
+}
+#cabecalho{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-color: red;
+}
+#titulo{
+    background-color: red;
+    text-align: center;
+    font-size: 40px;
+}
+#minha_foto{
+    margin: auto;
+    padding: 40px;
+    border: solid;
+    margin-top: 100px;
+}
+ 
+
