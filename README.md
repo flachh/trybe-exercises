@@ -33,14 +33,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
-- [X] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-5: _[Projeto - Playground Functions](https://github.com/flachh/trybe-exercises/tree/main/1-Fundamentos-do-Desenvolvimento-Web/bloco-4-Introdu%C3%A7%C3%A3o-a-JavaScript-e-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/4.5-projeto-Playground-Functions)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [ ] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
+- [X] 5-1: _JavaScript - DOM e seletores_
+- [X] 5-2: _JavaScript - Trabalhando com elementos_
+- [X] 5-3: _JavaScript - Eventos_
+- [X] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Meme Generator]()_
 - [ ] 5-6: _[Projeto - Arte com Pixels]()_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
