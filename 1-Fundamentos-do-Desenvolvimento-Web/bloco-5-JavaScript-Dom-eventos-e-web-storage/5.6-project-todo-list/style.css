@@ -1,0 +1,23 @@
+.corCinza{
+    background-color: rgb(128 128 128);
+}
+
+.completed{
+    text-decoration: line-through;
+}
+
+ol{
+    width: 500px;
+    text-align: center;
+    
+}
+li{
+    text-align: center;
+}
+
+button{
+    background-color: rgb(81, 197, 197);
+}
+html{
+    text-align: center;
+}
