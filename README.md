@@ -1,4 +1,12 @@
 # Trybe
+This repository contains all the learning activities developed by Gabriel Flach while studying at Trybe rocket
+
+_"Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where people only pay when they get a good job."_
+
+The program has more than 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
+
+
+# Trybe
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Gabriel Flach](https://www.linkedin.com/in/gabriel-flach-abb0791a5/) enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
