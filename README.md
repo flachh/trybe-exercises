@@ -50,8 +50,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Meme Generator]()_
-- [ ] 5-6: _[Projeto - Arte com Pixels](https://github.com/flachh/trybe-exercises/tree/main/1-Fundamentos-do-Desenvolvimento-Web/bloco-5-JavaScript-Dom-eventos-e-web-storage/5.5-project-pixels-art)_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
+- [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/flachh/trybe-exercises/tree/main/1-Fundamentos-do-Desenvolvimento-Web/bloco-5-JavaScript-Dom-eventos-e-web-storage/5.5-project-pixels-art)_
+- [X] 5-7: _[Projeto - Lista de tarefas](https://github.com/flachh/trybe-exercises/tree/main/1-Fundamentos-do-Desenvolvimento-Web/bloco-5-JavaScript-Dom-eventos-e-web-storage/5.6-project-todo-list)_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
