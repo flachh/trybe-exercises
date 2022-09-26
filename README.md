@@ -1,5 +1,5 @@
 # Trybe
-This repository contains all the learning activities developed by Gabriel Flach while studying at Trybe rocket
+This repository contains all the learning activities developed by [Gabriel Flach](https://www.linkedin.com/in/gabriel-flach-abb0791a5/) while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
 _"Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where people only pay when they get a good job."_
 
