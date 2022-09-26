@@ -1,5 +1,5 @@
 # Trybe
-This repository contains all the learning activities developed by [Gabriel Flach](https://www.linkedin.com/in/gabriel-flachh) while studying at [Trybe](https://www.betrybe.com/) :rocket:
+This repository contains all the learning activities developed by [Gabriel Flach](https://www.linkedin.com/in/flachh) while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
 _"Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where people only pay when they get a good job."_
 
@@ -8,7 +8,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Gabriel Flach](https://www.linkedin.com/in/gabriel-flachh) enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Gabriel Flach](https://www.linkedin.com/in/flachh) enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
